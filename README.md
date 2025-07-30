@@ -1,7 +1,7 @@
 
-# Predicting Passanger Fate Using Machine Learning
+# Predicting Passenger Fate Using Machine Learning
 
-A machine learning project for classifying passanger fate using the [Spaceship Titanic dataset](https://www.kaggle.com/competitions/spaceship-titanic/data). This project covers the full data science pipeline: data loading, preprocessing, analysis, feature engineering, model training, hyperparameter tuning, and predictions using Random Forests.
+A machine learning project for classifying passenger fate using the [Spaceship Titanic dataset](https://www.kaggle.com/competitions/spaceship-titanic/data). This project covers the full data science pipeline: data loading, preprocessing, analysis, feature engineering, model training, hyperparameter tuning, and predictions using Random Forests.
 
 ---
 
