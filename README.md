@@ -1,7 +1,7 @@
 
-# Breast Cancer Classification
+# Predicting Passanger Fate Using Machine Learning
 
-A machine learning project for classifying breast cancer cases using the [Spaceship Titanic dataset](https://www.kaggle.com/competitions/spaceship-titanic/data). This project covers the full data science pipeline: data loading, preprocessing, analysis, feature engineering, model training, hyperparameter tuning, and predictions using Random Forests.
+A machine learning project for classifying passanger fate using the [Spaceship Titanic dataset](https://www.kaggle.com/competitions/spaceship-titanic/data). This project covers the full data science pipeline: data loading, preprocessing, analysis, feature engineering, model training, hyperparameter tuning, and predictions using Random Forests.
 
 ---
 
@@ -22,7 +22,7 @@ A machine learning project for classifying breast cancer cases using the [Spaces
 
 ```
 .
-├── File_01.ipynb      # Main Jupyter Notebook for the workflow
+├── Kaggle Group Project Code.ipynb      # Main Jupyter Notebook for the workflow
 ├── train.csv          # Training dataset
 ├── test.csv           # Test dataset
 ├── sample_submission.csv # Sample submission format
@@ -66,7 +66,7 @@ The project uses the Spaceship Titanic dataset, which contains passenger data wi
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/Arbabyounis46/Project_Breast_Cancer_Classification.git
+   git clone https://github.com/Arbabyounis46/Project_Breast_Cancer_Classification.git](https://github.com/Kaggle-group-project-presentation/Kaggle-Group-Project-12-Random-Forest
    ```
 
 2. **Upload datasets to your working directory (e.g., Colab or local):**
@@ -75,7 +75,7 @@ The project uses the Spaceship Titanic dataset, which contains passenger data wi
    - `sample_submission.csv`
 
 3. **Open the notebook:**
-   - Open `File_01.ipynb` in Jupyter Notebook or Google Colab.
+   - Open `Kaggle Group Project Code.ipynb` in Jupyter Notebook or Google Colab.
 
 4. **Run all cells:**
    - The notebook will walk you through data loading, preprocessing, visualization, modeling, and predictions.
